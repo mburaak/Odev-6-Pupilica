@@ -28,11 +28,11 @@ class MainFragment : Fragment() {
         val k1 = Kategoriler(1,"Su Ve İçecek","su")
         val k2 = Kategoriler(1,"Meyve&Sebze","su")
         val k3 = Kategoriler(1,"Fırından","su")
-        val k4 = Kategoriler(1,"Makarna","su")
-        val k5 = Kategoriler(1,"Makarna","su")
-        val k6 = Kategoriler(1,"Makarna","su")
-        val k7 = Kategoriler(1,"Makarna","su")
-        val k8 = Kategoriler(1,"Makarna","su")
+        val k4 = Kategoriler(1,"Atıştırmalık","su")
+        val k5 = Kategoriler(1,"Dondurma","su")
+        val k6 = Kategoriler(1,"Süt Ürünleri","su")
+        val k7 = Kategoriler(1,"Kahvaltılık","su")
+        val k8 = Kategoriler(1,"Yiyecek","su")
 
 
 
